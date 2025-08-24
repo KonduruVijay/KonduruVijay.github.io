@@ -1,0 +1,41 @@
+# Site settings
+title: "Konduru Vijay"
+description: "Data Scientist | Generative AI | DevOps | M.Tech - IIT Guwahati"
+baseurl: "" # leave empty for GitHub Pages
+url: "https://konduruvijay.github.io"
+
+# Author details
+author:
+  name: "Konduru Vijay"
+  email: "vijayk0409@gmail.com"
+  phone: "+91-6305502413"
+  linkedin: "https://www.linkedin.com/in/kvijay-iitg/"
+  github: "https://github.com/KonduruVijay"
+  portfolio: "https://konduruvijay.github.io"
+  resume: "/KonduruVijay_DS_Res.pdf"
+
+# Social links (optional)
+social_links:
+  linkedin: "kvijay-iitg"
+  github: "KonduruVijay"
+  email: "vijayk0409@gmail.com"
+
+# Theme settings (depends on Jekyll theme you’re using)
+theme: minima
+
+# Navigation menu
+nav:
+  - name: "About"
+    link: "/about"
+  - name: "Experience"
+    link: "/experience"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Skills"
+    link: "/skills"
+  - name: "Resume"
+    link: "/KonduruVijay_DS_Res.pdf"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
